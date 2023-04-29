@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Amar Patel</h1>
 <h3 align="center">I'm Computer Engineering Strudent at CHARUSAT!!</h3>
 
-- 🔭 I make nice projects [-](-)
+- 🔭 I make nice project
 
-- 🌱 I’m always open to learn anything creative and innovative. **-**
+- 🌱 I’m always open to learn anything creative and innovative
 
-- 👯 I’m looking to collaborate with [-](-)
+- 👯 I’m looking to collaborate with
 
-- 🤝 👯 I’m looking to collaborate with other content creators. [-](-)
+- 🤝 👯 I’m looking to collaborate with other content creators
 
-- 👨‍💻 2023-24 Goals: Contribute more to Open Source projects [-](-)
+- 👨‍💻 2023-24 Goals: Contribute more to Open Source projects
 
-- 💬 Ask me about anything you want **-**
+- 💬 Ask me about anything you want
 
 - 📫 How to reach me **amarp@6226@gmail.com**
 
