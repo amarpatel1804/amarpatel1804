@@ -5,7 +5,7 @@
 
 - 🌱 I’m always open to learn anything creative and innovative
 
-- 👯 I’m looking to collaborate with
+- 👯 I’m looking to collaborate with amazing projects
 
 - 🤝 👯 I’m looking to collaborate with other content creators
 
